@@ -1,6 +1,6 @@
 <a  href="[Chetan Kesare (chetankesare9.vercel.app)](https://chetankesare9.vercel.app/)">
 
-<img  align="right"  width="205"  src="https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif">
+<img  align="right"  width="155"  src="https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif">
 
 </a>
 <br><br>
