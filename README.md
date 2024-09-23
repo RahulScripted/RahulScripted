@@ -1,12 +1,12 @@
 <a  href="[Chetan Kesare (chetankesare9.vercel.app)](https://chetankesare9.vercel.app/)">
 
-<img  align="right"  width="155"  src="https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif">
+<img  align="right"  width="135"  src="https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif">
 
 </a>
 <br><br>
   
 
-### **I am Rahul Goswami🔮**
+# **I am Rahul Goswami🔮**
 
   
 
@@ -47,6 +47,17 @@ I am in my final year at Bankura Unnayani Institute of Engineering, honing my sk
 
   
   
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RahulScripted&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ## **🟪Profile Counter**
 
