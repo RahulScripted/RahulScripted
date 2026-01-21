@@ -31,24 +31,49 @@ Greetings, I am Rahul, the wandering mage. My passions: are gaming, anime, crick
 
 I am in my final year at Bankura Unnayani Institute of Engineering, honing my skills to become a proficient front-end developer. With a strong foundation in C++, I am passionate about leveraging my programming expertise to create innovative and user-friendly web experiences. As I approach the end of my academic journey, I am excited to apply my knowledge to real-world projects and contribute to the tech industry. 🌐💻✨
 
-  <br><br>
+  <br><br>  
   
+##
+<h3><b><samp>Skills</samp></b></h3>
 
-## **📊 Github Stats**
+<h4><b><samp>Languages</samp></b></h4>
 
-<p  align="center">
+![](https://skills.syvixor.com/api/icons?i=cpp,c,&perline=18)
 
-<img  width="50%"  src="https://github-readme-stats.vercel.app/api?username=RahulScripted&show_icons=true&count_private=true&theme=react-dark&hide_border=true&bg_color=0d1117" />
+<h4><b><samp>Frontend</samp></b></h4>
 
-<img  width="45%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulScripted&show_icons=true&count_private=true&theme=react-dark&hide_border=true&bg_color=0d1117&layout=compact" />
-  
-</p>
+![](https://skills.syvixor.com/api/icons?i=html,css,tailwind,javascript,typescript,react,nextjs,reactnative&perline=18)
 
-  
-  
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<h4><b><samp>Backend</samp></b></h4>
 
+![](https://skillicons.dev/icons?i=express,nodejs,postman&perline=18)
+
+<h4><b><samp>Database</samp></b></h4>
+
+![](https://skills.syvixor.com/api/icons?perline=18&i=postgresql,mysql,mongodb)
+
+
+<h4><b><samp>Design</samp></b></h4>
+
+![](https://skills.syvixor.com/api/icons?i=figma&perline=18)
+    
+##
+<h3><b><samp>Tools and Platform</samp></b></h3>
+
+
+<h4><b><samp>Tools</samp></b></h4>
+
+![](https://skills.syvixor.com/api/icons?i=github,git,githubpages,githubcopilot&perline=18)
+
+<h4><b><samp>Operating Systems and Platforms</samp></b></h4>
+
+![](https://skills.syvixor.com/api/icons?i=windows,linux,ubuntu&perline=18)
+
+<h4><b><samp>IDEs</samp></b></h4>
+
+![](https://skills.syvixor.com/api/icons?i=vscode,sublime&perline=18)
+
+<hr> 
 
 
 ## GSSOC(24) Badges 🪶
@@ -78,6 +103,10 @@ I am in my final year at Bankura Unnayani Institute of Engineering, honing my sk
 ## **🟪Profile Counter**
 
 <a  href="https://github.com/0x1Luffy"><img  align="left"  width="100"  src="https://static.wikia.nocookie.net/pokemeow-community/images/f/fd/Darkrai_%28Shiny%29_-_Pokemon_-_Pokemeow.gif/revision/latest/thumbnail/width/360/height/360?cb=20201206134815"></a>
+
+### 🔖 Holopins:
+  
+[![@goswami2001's Holopin board](https://holopin.io/api/user/board?user=goswami2001)](https://holopin.io/@goswami2001)
   
 
 ```yaml
