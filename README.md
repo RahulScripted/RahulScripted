@@ -29,7 +29,9 @@ Greetings, I am Rahul, the wandering mage. My passions: are gaming, anime, crick
 
 <img  align="right"  width="130"  src="https://media.tenor.com/PJC_qDDQnssAAAAi/inosuke-protesta.gif"></a>
 
-I am in my final year at Bankura Unnayani Institute of Engineering, honing my skills to become a proficient front-end developer. With a strong foundation in C++, I am passionate about leveraging my programming expertise to create innovative and user-friendly web experiences. As I approach the end of my academic journey, I am excited to apply my knowledge to real-world projects and contribute to the tech industry. 🌐💻✨
+Software Engineer with hands-on experience building secure, scalable enterprise web applications in fintech envi-
+ronments. Strong foundation in data structures, SQL, backend systems, and system reliability. Experienced in
+developing high-availability applications, REST APIs, and performance-optimized frontend systems. 🌐💻✨
 
   <br><br>  
   
@@ -89,20 +91,8 @@ I am in my final year at Bankura Unnayani Institute of Engineering, honing my sk
 <br>
 <br>
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RahulScripted&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RahulScripted&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-### 🔖 Holopins:
-  
-[![@goswami2001's Holopin board](https://holopin.io/api/user/board?user=goswami2001)](https://holopin.io/@goswami2001)
 
 
 ## **🟪Profile Counter**
