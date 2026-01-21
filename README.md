@@ -100,14 +100,15 @@ I am in my final year at Bankura Unnayani Institute of Engineering, honing my sk
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
+### 🔖 Holopins:
+  
+[![@goswami2001's Holopin board](https://holopin.io/api/user/board?user=goswami2001)](https://holopin.io/@goswami2001)
+
+
 ## **🟪Profile Counter**
 
 <a  href="https://github.com/0x1Luffy"><img  align="left"  width="100"  src="https://static.wikia.nocookie.net/pokemeow-community/images/f/fd/Darkrai_%28Shiny%29_-_Pokemon_-_Pokemeow.gif/revision/latest/thumbnail/width/360/height/360?cb=20201206134815"></a>
 
-### 🔖 Holopins:
-  
-[![@goswami2001's Holopin board](https://holopin.io/api/user/board?user=goswami2001)](https://holopin.io/@goswami2001)
-  
 
 ```yaml
 
