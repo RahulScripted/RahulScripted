@@ -10,7 +10,7 @@
 <div align="center">
   Software Engineer building secure, scalable enterprise web apps in fintech.<br/>
   Strong roots in DSA, SQL, backend systems &amp; reliability engineering.<br/>
-  Off the clock: gaming 🎮, anime 📺, cricket 🏏, football ⚽ &amp; volleyball 🏐
+  Off the clock: gaming 🎮, anime 📺, football ⚽ &amp; volleyball 🏐
 </div>
 
 ###
@@ -55,6 +55,8 @@
   <a href="#"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
   <a href="https://github.com/RahulScripted"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" /></a>
 </div>
+
+
 
 <div align="center">
   <img width="90" src="https://static.wikia.nocookie.net/pokemeow-community/images/f/fd/Darkrai_%28Shiny%29_-_Pokemon_-_Pokemeow.gif/revision/latest/thumbnail/width/360/height/360?cb=20201206134815">
