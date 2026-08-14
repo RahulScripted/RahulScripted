@@ -5,6 +5,10 @@
   <img src="https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif" width="140">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=650&height=180&lines=%24+npx+create-next-app%40latest+rahul-portfolio;%E2%9C%94+Installing+dependencies...;%E2%9C%94+Creating+optimized+build...;%E2%9C%94+Success!+App+ready+in+2.4s;%24+cd+rahul-portfolio+%26%26+npm+run+dev;%E2%96%B2+Local%3A+http%3A%2F%2Flocalhost%3A3000;%E2%9C%93+Ready+-+started+server+on+0.0.0.0%3A3000&background=0D1117FF&vCenter=true" alt="terminal animation" />
+</p>
+
 ###
 
 <div align="center">
@@ -14,6 +18,19 @@
 </div>
 
 ###
+
+## 🧑‍💻 About Me
+
+- 🏦 Currently working on **secure, high-throughput fintech platforms**
+- 🧩 Deeply into **Data Structures & Algorithms**, backend architecture, and system reliability
+- 🌱 Exploring distributed systems, caching strategies, and DB internals
+- 🎯 2026 goal: ship a full-stack side project end-to-end and contribute to OSS
+- 💬 Ask me about: React/Next.js, Node/Express, SQL & NoSQL data modeling, or competitive programming
+- ⚡ Fun fact: I debug faster after a match of volleyball than after coffee ☕
+
+###
+
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo" />
@@ -51,12 +68,22 @@
 
 ###
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulScripted&theme=github-compact&hide_border=true" alt="contribution graph" width="90%" />
+</div>
+
+###
+
+## 🌐 Connect With Me
+
 <div align="center">
   <a href="#"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
   <a href="https://github.com/RahulScripted"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" /></a>
 </div>
 
-
+###
 
 <div align="center">
   <img width="90" src="https://static.wikia.nocookie.net/pokemeow-community/images/f/fd/Darkrai_%28Shiny%29_-_Pokemon_-_Pokemeow.gif/revision/latest/thumbnail/width/360/height/360?cb=20201206134815">
@@ -69,3 +96,7 @@
 
   <sub>⭐ Thanks for stopping by — feel free to explore my repos!</sub>
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</p>
