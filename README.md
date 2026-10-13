@@ -68,14 +68,6 @@
 
 ###
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulScripted&theme=github-compact&hide_border=true" alt="contribution graph" width="90%" />
-</div>
-
-###
-
 ## 🌐 Connect With Me
 
 <div align="center">
