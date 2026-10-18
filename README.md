@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Rahul Goswami</h1>
-<h3 align="center">🔮 Enchanter of the Web · Weaver of Graphics</h3>
+<h3 align="center">🔮 Enchanter of the Web | Weaver of Graphics</h3>
 
 <p align="center">
   <img src="https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif" width="140">
