@@ -12,9 +12,7 @@
 ###
 
 <div align="center">
-  Software Engineer building secure, scalable enterprise web apps in fintech.<br/>
-  Strong roots in DSA, SQL, backend systems &amp; reliability engineering.<br/>
-  Off the clock: gaming 🎮, anime 📺, football ⚽ &amp; volleyball 🏐
+  Software Engineer building secure, scalable enterprise web apps in fintech. Strong roots in DSA, SQL, backend systems &amp; reliability engineering. Off the clock: gaming 🎮, anime 📺, football ⚽ &amp; volleyball 🏐
 </div>
 
 ###
