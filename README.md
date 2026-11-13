@@ -12,7 +12,7 @@
 ###
 
 <div align="center">
-  Software Engineer building secure, scalable enterprise web apps in fintech.
+  Software Engineer building secure, scalable enterprise web & mobile apps in fintech.
 </div>
 
 ###
